@@ -1,4 +1,11 @@
 item,name
+Q64222331,Dieter Vanbesien
+Q65271029,Dominiek Sneppe
+Q1924559,Eliane Tillieux
+Q2888701,Eric Thiébaut
+Q3193290,Karin Jiroflée
+Q99887529,Leslie Leoni
+Q64688410,Roberto D'Amico
 Q568259,Ahmed Laaouej
 Q64140474,Albert Vicaire
 Q518520,André Flahaut
@@ -14,6 +21,7 @@ Q2417142,Bert Wollants
 Q17332663,Björn Anseeuw
 Q64157225,Caroline Taquin
 Q2835834,Catherine Fonck
+Q107466577,Chanelle Bonaventure
 Q5109850,Christian Leysen
 Q2305667,Christoph D'Haese
 Q91117681,Christophe Bombled
@@ -25,8 +33,6 @@ Q2949528,Daniel Bacquelaine
 Q3014674,Daniel Senesael
 Q22342547,Darya Safai
 Q3022653,Denis Ducarme
-Q64222331,Dieter Van Besien
-Q65271029,Dominiek Spinnewyn-Sneppe
 Q60522578,Dries Van Langenhove
 Q15127115,Egbert Lachaert
 Q65270846,Ellen Samyn
@@ -52,18 +58,15 @@ Q13653620,Hans Verreyt
 Q1819614,Hendrik Bogaert
 Q68012836,Hervé Rigot
 Q3142509,Hugues Bayet
-Q17350464,Jan Bertels
 Q4343491,Jan Briers
 Q99937784,Jasper Pillen
 Q2107147,Jean-Marc Delizée
 Q981442,Jean-Marie Dedecker
 Q1974298,Jef Van den Bergh
-Q64876436,Jessika Soors
 Q3183927,Joris Vandenbroucke
 Q2097477,Josy Arens
 Q61653971,Joy Donné
 Q64140045,Julie Chanson
-Q3193290,Karine Jiroflée
 Q64210661,Kathleen Depoorter
 Q63845242,Kathleen Verhelst
 Q18433796,Katja Gabriëls
@@ -81,7 +84,6 @@ Q65270643,Kurt Ravyts
 Q69745260,Laurence Hennuy
 Q64531877,Laurence Zanchetta
 Q3228978,Leen Dierick
-Q99887529,Leslie Léoni
 Q2800268,Maggie De Block
 Q65282530,Malik Ben Achour
 Q16662935,Marco Van Hees
@@ -116,10 +118,8 @@ Q65270026,Pieter De Spiegeleer
 Q16672153,Raoul Hedebouw
 Q65271257,Reccino Van Lommel
 Q1991899,Robby De Caluwé
-Q64688410,Roberto d'Amico
 Q64140271,Samuel Cogolati
 Q18336548,Sander Loones
-Q57078071,Sarah Schlitz
 Q2032311,Servais Verherstraeten
 Q100889225,Sigrid Goethals
 Q64140417,Simon Moutquin
@@ -148,6 +148,4 @@ Q18286545,Wouter Raskin
 Q65271335,Wouter Vermeersch
 Q64210667,Yngvild Ingels
 Q17191473,Yoleen Van Camp
-Q1924559,Éliane Tillieux
-Q2888701,Éric Thiébaut
 Q3593705,Özlem Özen
