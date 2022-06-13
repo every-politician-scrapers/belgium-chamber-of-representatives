@@ -3,9 +3,8 @@
 
 require 'every_politician_scraper/scraper_data'
 
-class Legislature
-  # details for an individual member
-  class Member < Scraped::HTML
+class MemberList
+  class Member
     field :id do
       url[/key=(\w+)/, 1]
     end
@@ -18,6 +17,10 @@ class Legislature
 
     field :party do
       tds[1].text.tidy
+    end
+
+
+    field :position do
     end
 
     private
@@ -35,8 +38,7 @@ class Legislature
     end
   end
 
-  # The page listing all the members
-  class Members < Scraped::HTML
+  class Members
     field :members do
       noko.css('#story table').xpath('.//tr[td[2]]').map { |mp| fragment(mp => Member).to_h }
     end
